@@ -1,0 +1,11 @@
+用户模块’ > user.txt
+womenshiliangkehuitongdeshitou
+config --l
+cat user.txt
+mkdir gitleanring
+git init
+echo 'bianjieneirong' > User.txtwqwq
+ddddfffdddddddddd
+ho 用户模块’:wqwq
+dwcCCWXc
+kkkkkk
